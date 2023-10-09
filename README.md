@@ -7,7 +7,7 @@
 ## 进入游戏首先检测更新
 ![更新](https://github.com/dyx77421088/TPSGame/assets/46596598/e9fe9ba5-8baa-4cf6-8c9e-cffce3d14b95)
 ![更新2](https://github.com/dyx77421088/TPSGame/assets/46596598/acdb1ee4-ded2-409c-8654-c8fd59766b5c)
-[![Watch the video(https://github.com/dyx77421088/TPSGame/assets/46596598/e9fe9ba5-8baa-4cf6-8c9e-cffce3d14b95)]([http://vjs.zencdn.net/v/oceans.mp4](https://youtu.be/BRjFy6ViTvE))
+[![Watch the video(https://github.com/dyx77421088/TPSGame/assets/46596598/e9fe9ba5-8baa-4cf6-8c9e-cffce3d14b95)](https://youtu.be/BRjFy6ViTvE)
 
 
 # 角色状态机
