@@ -2,26 +2,18 @@
 第三人称射击类的游戏[相关脚本](https://github.com/dyx77421088/TPSGameScript)
 ### 💻 开发软件
 
-[![xcode-version](https://img.shields.io/badge/xcode-14.2%20-brightgreen?style=flat-square)](https://developer.apple.com/cn/xcode)
-[![IDEA-version](https://img.shields.io/badge/IDEA-2022.3.3%20-brightgreen?style=flat-square)](https://www.jetbrains.com.cn/idea)
-[![pycharm-version](https://img.shields.io/badge/pycharm-2022.3.3%20-brightgreen?style=flat-square)](https://www.jetbrains.com.cn/pycharm)
+[![unity](https://img.shields.io/badge/unity-2021%20-brightgreen?style=flat-square)](https://unity.com/cn)
+[![visual studio](https://img.shields.io/badge/Visual%20Studio-2022%20-brightgreen?style=flat-square)](https://visualstudio.microsoft.com/zh-hans/)
 
 ### 💻 开发环境
 
-[![MacOS 13.2.1](https://img.shields.io/badge/MacOS%2013.2.1-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com.cn/macos/ventura)
+[![Windows11](https://img.shields.io/badge/Windows%2011-4F4F4F?style=flat-square&logo=windows&logoColor=33B4F1&labelColor=4F4F4F)](https://www.microsoft.com/zh-cn/software-download/windows11/)
 
-[![Flutter 3.7.7](https://img.shields.io/badge/Flutter%203.7.7-4F4F4F?style=flat-square&logo=flutter&logoColor=70CEF8&labelColor=4F4F4F)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart%202.19.4-4F4F4F?style=flat-square&logo=dart&logoColor=5BB3F0&labelColor=4F4F4F)](https://dart.dev)
-[![SwiftUI 4.0](https://img.shields.io/badge/SwiftUI%204.0-4F4F4F?style=flat-square&logo=swift&logoColor=61D4E7&labelColor=4F4F4F)](https://developer.apple.com/cn/xcode/swiftui)
-[![Swift 5.7](https://img.shields.io/badge/Swift%205.7-4F4F4F?style=flat-square&logo=swift&labelColor=4F4F4F)](https://developer.apple.com/cn/swift)
-[![Django 4.14](https://img.shields.io/badge/Django%204.14-4F4F4F?style=flat-square&logo=Django&labelColor=4F4F4F)](https://www.djangoproject.com)
-[![Python 3.9](https://img.shields.io/badge/Python%203.9-4F4F4F?style=flat-square&logo=Python&labelColor=4F4F4F)](https://www.python.org)
+[![C#](https://img.shields.io/badge/C%23%20-4F4F4F?style=flat-square&logo=csharp&logoColor=A279DD&labelColor=4F4F4F)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 ### 💻 测试环境
 
-[![iPad 16.3.1](https://img.shields.io/badge/iPad%2016.3.1-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com.cn/ipados/ipados-16)
-[![iOS 16.3.1](https://img.shields.io/badge/iOS%2016.3.1-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com.cn/ios/ios-16)
-[![Android 13](https://img.shields.io/badge/Android%2013-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-13)
+[![windows11](https://img.shields.io/badge/Windows%2011-4F4F4F?style=flat-square&logo=windows&logoColor=33B4F1&labelColor=4F4F4F)](https://www.microsoft.com/zh-cn/software-download/windows11/)
 
 
 # 加载界面
