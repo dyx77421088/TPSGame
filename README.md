@@ -8,6 +8,7 @@
 ![更新](https://github.com/dyx77421088/TPSGame/assets/46596598/e9fe9ba5-8baa-4cf6-8c9e-cffce3d14b95)
 ![更新2](https://github.com/dyx77421088/TPSGame/assets/46596598/acdb1ee4-ded2-409c-8654-c8fd59766b5c)
 https://github.com/dyx77421088/TPSGameScript/assets/46596598/3b4018b8-72f4-4c8b-a0a5-2a6c0fdb6832
+[![Watch the video(https://github.com/dyx77421088/TPSGame/assets/46596598/e9fe9ba5-8baa-4cf6-8c9e-cffce3d14b95)](http://vjs.zencdn.net/v/oceans.mp4)
 ![视频](http://vjs.zencdn.net/v/oceans.mp4)
 # 角色状态机
 ## 角色主要有三种状态，为无武器状态、枪、剑。
