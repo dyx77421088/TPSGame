@@ -1,6 +1,6 @@
 # TPSGame
 第三人称射击类的游戏[相关脚本](https://github.com/dyx77421088/TPSGameScript)  
-项目完整演示：[B站](https://www.bilibili.com/video/BV1pC4y157Hw)
+项目完整演示：[B站](https://www.bilibili.com/video/BV1pC4y157Hw/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=5202eeacb653b75c01741c25d905490c)
 ### 💻 开发软件
 
 [![unity](https://img.shields.io/badge/unity-2021%20-brightgreen?style=flat-square)](https://unity.com/cn)
